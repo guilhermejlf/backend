@@ -1,1 +1,1 @@
-# backend
+# Respositório destinado a estudo
